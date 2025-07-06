@@ -9,14 +9,14 @@ st.title("🤖 Customer Service Assistant")
 st.markdown('<div class="tts-card">', unsafe_allow_html=True)
 
 st.markdown("""
-Welcome to your AI-powered Customer Service MVP!
+Welcome to your AI-powered Customer Service MVP
 
 **Use the sidebar** to access:
 
 - 🎤 Text-to-Speech Generator  
 - 📊 Analytics Dashboard  
 - 🧾 Conversation History  
-- ⚙️ Settings (optional)
+- ⚙️ Settings (work in progress)
 """)
 
 st.markdown('</div>', unsafe_allow_html=True)
