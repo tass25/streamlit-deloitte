@@ -1,0 +1,44 @@
+[
+  {
+    "role": "bot",
+    "text": "Thank you for contacting customer support. How can we assist you today?",
+    "lang": "en",
+    "time": "22:10:14"
+  },
+  {
+    "role": "bot",
+    "text": "Thank you for contacting customer support. How can we assist you today?",
+    "lang": "en",
+    "time": "22:10:21"
+  },
+  {
+    "role": "user",
+    "text": "hello\n",
+    "lang": "en",
+    "time": "22:10:30"
+  },
+  {
+    "role": "bot",
+    "text": "نقوم بمعالجة طلبك حاليًا.",
+    "lang": "ar",
+    "time": "22:26:00"
+  },
+  {
+    "role": "bot",
+    "text": "Nous nous excusons pour les désagréments.",
+    "lang": "fr",
+    "time": "22:26:05"
+  },
+  {
+    "role": "bot",
+    "text": "Votre demande est en cours de traitement.",
+    "lang": "fr",
+    "time": "22:26:09"
+  },
+  {
+    "role": "bot",
+    "text": "هل يمكنك تأكيد بريدك الإلكتروني؟",
+    "lang": "ar",
+    "time": "22:26:24"
+  }
+]
